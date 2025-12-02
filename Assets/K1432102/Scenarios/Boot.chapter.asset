@@ -44,9 +44,361 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u7BA1\u5BB6\uFF0E\u8CFD\u5DF4\u65AF\u6B3D"
+      - 
+      - "\u606D\u656C"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - N_respectful.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - N_neutral.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - 
+      - "\u4E0D\u8A8D\u540C"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - N_disagree.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u54E5\u54E5\uFF0E\u5E0C\u723E\u5FB7"
+      - 
+      - "\u8208\u596E"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - B_excited.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - B_neutral.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - 
+      - 
+      - "\u4E0D\u958B\u5FC3"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - B_unhappy.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - 
+      - 
+      - "\u9B54\u6CD5"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - B_magic.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - 
+      - 
+      - "\u528D\u58EB"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - B_swordsman.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - 
+      - 
+      - "\u75B2\u7D2F"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - B_tired.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - 
+      - 
+      - "\u7121\u5948"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - B_helpless.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - 
+      - 
+      - "\u5F13\u7BAD"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - B_bow and arrow.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - "\u59B9\u59B9\uFF0E\u8299\u857E\u4E9E"
+      - 
+      - "\u958B\u5FC3"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - S_happy.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - 
+      - 
+      - "\u9B54\u6CD5"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - S_magic.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - 
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - S_neutral.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - 
+      - 
+      - "\u96E3\u904E"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - S_sad.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - 
+      - 
+      - "\u5BB3\u7F9E"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - S_shy.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - 
+      - 
+      - "\u60F3\u7761"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - S_sleepy.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings:
+      - 
+      - 
+      - "\u528D\u58EB"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - S_swordsman.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings:
+      - 
+      - 
+      - "\u75B2\u7D2F"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - S_tired.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - 
+      - 
+      - "\u4E0D\u958B\u5FC3"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - S_unhappy.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - 
+      - 
+      - "\u5F13\u7BAD"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - S_bow and arrow.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - 
+      - 
+      - "\u62B1\u6028"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - S_complain.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/K1432102/Scenarios/K1432102.xls:Character
     type: 1
-    textLength: 166
+    textLength: 549
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
