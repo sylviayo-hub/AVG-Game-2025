@@ -102,7 +102,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.1
       - 
       - B_excited.png
       isEmpty: 0
@@ -118,7 +118,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.1
       - 
       - B_neutral.png
       isEmpty: 0
@@ -134,7 +134,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.1
       - 
       - B_unhappy.png
       isEmpty: 0
@@ -150,7 +150,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.1
       - 
       - B_magic.png
       isEmpty: 0
@@ -166,7 +166,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.1
       - 
       - B_swordsman.png
       isEmpty: 0
@@ -182,7 +182,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.1
       - 
       - B_tired.png
       isEmpty: 0
@@ -198,7 +198,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.1
       - 
       - B_helpless.png
       isEmpty: 0
@@ -214,7 +214,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - 1.1
       - 
       - B_bow and arrow.png
       isEmpty: 0
@@ -398,7 +398,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/K1432102/Scenarios/K1432102.xls:Character
     type: 1
-    textLength: 549
+    textLength: 573
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
@@ -424,9 +424,309 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u5BBF\u820D"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - room.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u5BBF\u820D2"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - room2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u5BBF\u820D4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - room4.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u5716\u66F8\u99284"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - lib4.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u5716\u66F8\u99286"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - lib6.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u68EE\u67971"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - rest1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u68EE\u67975"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - rest5.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u68EE\u679710"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - rest10.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - "\u6821\u57121"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - school1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - "\u6821\u57122"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - school2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - "\u5546\u5E97\u88572"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - shop2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - "\u5546\u5E97\u88573"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - shop3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - "\u9B54\u6CD52"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - magic2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - "\u9B54\u6CD53"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - magic3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - "\u528D\u5BA44"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - S4.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - "\u528D\u5BA46"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - S6.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - "\u5F13\u7BAD\u5BA42"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - bow2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings:
+      - "\u5F13\u7BAD\u5BA43"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - bow3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings:
+      - "\u9B54\u6CD5\u5BA44"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - magroom4.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings:
+      - "\u9B54\u6CD5\u5BA46"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - magroom6.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/K1432102/Scenarios/K1432102.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 422
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
@@ -467,9 +767,42 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u4E2D\u9593"
+      - Character
+      - 0
+      - 0
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u5DE6\u908A"
+      - Character
+      - -250
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u53F3\u908A"
+      - Character
+      - 250
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/K1432102/Scenarios/K1432102.xls:Layer
     type: 1
-    textLength: 109
+    textLength: 162
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
@@ -636,9 +969,89 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u6700\u7D50\u5C40"
+      - 
+      - Bgm
+      - OK_END.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u6230\u9B25"
+      - 
+      - Bgm
+      - OK_Fighting.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u68EE\u6797"
+      - 
+      - Bgm
+      - OK_Forest.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u7562\u696D\u5178\u79AE"
+      - 
+      - Bgm
+      - OK_Graduate.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u5716\u66F8\u9928"
+      - 
+      - Bgm
+      - OK_Library.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u9B54\u6CD5"
+      - 
+      - Bgm
+      - OK_Magic.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u5B78\u6821"
+      - 
+      - Bgm
+      - OK_School.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u5546\u5E97"
+      - 
+      - Bgm
+      - OK_Shop.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/K1432102/Scenarios/K1432102.xls:Sound
     type: 1
-    textLength: 37
+    textLength: 184
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
