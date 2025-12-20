@@ -1075,9 +1075,43 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u54E5\u54E5_\u8077\u696D"
+      - String
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u54E5\u54E5_\u4FEE\u7149\u6B21\u6578"
+      - Int
+      - 0
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u59B9\u59B9_\u8077\u696D"
+      - String
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u59B9\u59B9_\u4FEE\u7149\u6B21\u6578"
+      - Int
+      - 0
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/K1432102/Scenarios/K1432102.xls:Param
     type: 1
-    textLength: 50
+    textLength: 94
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
