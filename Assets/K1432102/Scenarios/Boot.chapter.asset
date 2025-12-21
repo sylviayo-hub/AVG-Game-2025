@@ -1109,9 +1109,18 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - Day
+      - Int
+      - 1
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/K1432102/Scenarios/K1432102.xls:Param
     type: 1
-    textLength: 94
+    textLength: 101
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
