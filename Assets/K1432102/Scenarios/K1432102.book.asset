@@ -52,7 +52,7 @@ MonoBehaviour:
       debugIndex: 2
       strings:
       - Bg
-      - "\u6821\u57121"
+      - "\u6821\u57122"
       - 
       - 
       isEmpty: 0
@@ -1917,7 +1917,7 @@ MonoBehaviour:
       debugIndex: 3
       strings:
       - Bg
-      - "\u9B54\u6CD52"
+      - "\u8A13\u7DF4\u5BA41"
       - 
       - 
       - 
@@ -2060,7 +2060,7 @@ MonoBehaviour:
       debugInfo: 
     name: "Assets/K1432102/Scenarios/K1432102.xls:\u5E0C\u723E\u5FB7\u4FEE\u7149"
     type: 1
-    textLength: 252
+    textLength: 253
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
     entityIndexTbl: 
@@ -2303,7 +2303,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u54E5\u54E5\uFF0E\u5E0C\u723E\u5FB7"
-      - "\u75B2\u7D2F"
+      - "\u7761\u89BA"
       - "\u4E2D\u9593"
       - 
       - 
@@ -2499,7 +2499,7 @@ MonoBehaviour:
       debugIndex: 4
       strings:
       - Bg
-      - "\u9B54\u6CD53"
+      - "\u8A13\u7DF4\u5BA41"
       - 
       - 
       - 
@@ -2627,7 +2627,7 @@ MonoBehaviour:
       debugInfo: 
     name: "Assets/K1432102/Scenarios/K1432102.xls:\u8299\u857E\u4E9E\u4FEE\u7149"
     type: 1
-    textLength: 230
+    textLength: 231
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
     entityIndexTbl: 
@@ -2895,7 +2895,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u59B9\u59B9\uFF0E\u8299\u857E\u4E9E"
-      - "\u75B2\u7D2F"
+      - "\u7761\u89BA"
       - "\u4E2D\u9593"
       - 
       - 
@@ -3158,7 +3158,7 @@ MonoBehaviour:
       debugIndex: 3
       strings:
       - Bg
-      - "\u6821\u57122"
+      - "\u7562\u696D\u5178\u79AE"
       - 
       - 
       - 
@@ -4172,7 +4172,7 @@ MonoBehaviour:
       debugInfo: 
     name: "Assets/K1432102/Scenarios/K1432102.xls:\u7562\u696D\u5178\u79AE"
     type: 1
-    textLength: 1031
+    textLength: 1032
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
     entityIndexTbl: 
@@ -4257,6 +4257,22 @@ MonoBehaviour:
     - rowIndex: 4
       debugIndex: 4
       strings:
+      - 
+      - 
+      - "\u958B\u5FC3"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - D_Q_01.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
       - "\u54E5\u54E5\uFF0E\u5E0C\u723E\u5FB7"
       - 
       - "\u8208\u596E"
@@ -4270,8 +4286,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 5
-      debugIndex: 5
+    - rowIndex: 6
+      debugIndex: 6
       strings:
       - 
       - 
@@ -4286,8 +4302,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 6
-      debugIndex: 6
+    - rowIndex: 7
+      debugIndex: 7
       strings:
       - 
       - 
@@ -4302,8 +4318,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 7
-      debugIndex: 7
+    - rowIndex: 8
+      debugIndex: 8
       strings:
       - 
       - 
@@ -4318,8 +4334,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 8
-      debugIndex: 8
+    - rowIndex: 9
+      debugIndex: 9
       strings:
       - 
       - 
@@ -4334,8 +4350,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 9
-      debugIndex: 9
+    - rowIndex: 10
+      debugIndex: 10
       strings:
       - 
       - 
@@ -4350,8 +4366,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 10
-      debugIndex: 10
+    - rowIndex: 11
+      debugIndex: 11
       strings:
       - 
       - 
@@ -4366,8 +4382,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 11
-      debugIndex: 11
+    - rowIndex: 12
+      debugIndex: 12
       strings:
       - 
       - 
@@ -4382,8 +4398,24 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 12
-      debugIndex: 12
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - 
+      - 
+      - "\u7761\u89BA"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - B_Q_Sleep.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
       strings:
       - "\u59B9\u59B9\uFF0E\u8299\u857E\u4E9E"
       - 
@@ -4398,8 +4430,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 13
-      debugIndex: 13
+    - rowIndex: 15
+      debugIndex: 15
       strings:
       - 
       - 
@@ -4414,8 +4446,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 14
-      debugIndex: 14
+    - rowIndex: 16
+      debugIndex: 16
       strings:
       - 
       - 
@@ -4430,8 +4462,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 15
-      debugIndex: 15
+    - rowIndex: 17
+      debugIndex: 17
       strings:
       - 
       - 
@@ -4446,8 +4478,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 16
-      debugIndex: 16
+    - rowIndex: 18
+      debugIndex: 18
       strings:
       - 
       - 
@@ -4462,8 +4494,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 17
-      debugIndex: 17
+    - rowIndex: 19
+      debugIndex: 19
       strings:
       - 
       - 
@@ -4478,8 +4510,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 18
-      debugIndex: 18
+    - rowIndex: 20
+      debugIndex: 20
       strings:
       - 
       - 
@@ -4494,8 +4526,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 19
-      debugIndex: 19
+    - rowIndex: 21
+      debugIndex: 21
       strings:
       - 
       - 
@@ -4510,8 +4542,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 20
-      debugIndex: 20
+    - rowIndex: 22
+      debugIndex: 22
       strings:
       - 
       - 
@@ -4526,8 +4558,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 21
-      debugIndex: 21
+    - rowIndex: 23
+      debugIndex: 23
       strings:
       - 
       - 
@@ -4542,8 +4574,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 22
-      debugIndex: 22
+    - rowIndex: 24
+      debugIndex: 24
       strings:
       - 
       - 
@@ -4558,9 +4590,25 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - 
+      - 
+      - "\u7761\u89BA"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - S_Q_Sleep.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/K1432102/Scenarios/K1432102.xls:Character
     type: 1
-    textLength: 573
+    textLength: 621
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
@@ -4886,9 +4934,69 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - "\u7562\u696D\u5178\u79AE"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - graduation.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings:
+      - "\u8A13\u7DF4\u5BA41"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - Training Room_01.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - "\u8A13\u7DF4\u5BA42"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - Training Room_02.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - "\u8A13\u7DF4\u5BA43"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - Training Room_03.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/K1432102/Scenarios/K1432102.xls:Texture
     type: 1
-    textLength: 422
+    textLength: 524
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
@@ -5402,7 +5510,7 @@ MonoBehaviour:
       debugIndex: 2
       strings:
       - Bg
-      - "\u6821\u57121"
+      - "\u6821\u57122"
       - 
       - 
       isEmpty: 0
@@ -7247,7 +7355,7 @@ MonoBehaviour:
       debugIndex: 3
       strings:
       - Bg
-      - "\u9B54\u6CD52"
+      - "\u8A13\u7DF4\u5BA41"
       - 
       - 
       - 
@@ -7390,7 +7498,7 @@ MonoBehaviour:
       debugInfo: 
     name: "Assets/K1432102/Scenarios/K1432102.xls:\u5E0C\u723E\u5FB7\u4FEE\u7149"
     type: 1
-    textLength: 252
+    textLength: 253
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
@@ -7629,7 +7737,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u54E5\u54E5\uFF0E\u5E0C\u723E\u5FB7"
-      - "\u75B2\u7D2F"
+      - "\u7761\u89BA"
       - "\u4E2D\u9593"
       - 
       - 
@@ -7823,7 +7931,7 @@ MonoBehaviour:
       debugIndex: 4
       strings:
       - Bg
-      - "\u9B54\u6CD53"
+      - "\u8A13\u7DF4\u5BA41"
       - 
       - 
       - 
@@ -7951,7 +8059,7 @@ MonoBehaviour:
       debugInfo: 
     name: "Assets/K1432102/Scenarios/K1432102.xls:\u8299\u857E\u4E9E\u4FEE\u7149"
     type: 1
-    textLength: 230
+    textLength: 231
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
@@ -8215,7 +8323,7 @@ MonoBehaviour:
       strings:
       - 
       - "\u59B9\u59B9\uFF0E\u8299\u857E\u4E9E"
-      - "\u75B2\u7D2F"
+      - "\u7761\u89BA"
       - "\u4E2D\u9593"
       - 
       - 
@@ -8474,7 +8582,7 @@ MonoBehaviour:
       debugIndex: 3
       strings:
       - Bg
-      - "\u6821\u57122"
+      - "\u7562\u696D\u5178\u79AE"
       - 
       - 
       - 
@@ -9488,6 +9596,6 @@ MonoBehaviour:
       debugInfo: 
     name: "Assets/K1432102/Scenarios/K1432102.xls:\u7562\u696D\u5178\u79AE"
     type: 1
-    textLength: 1031
+    textLength: 1032
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
