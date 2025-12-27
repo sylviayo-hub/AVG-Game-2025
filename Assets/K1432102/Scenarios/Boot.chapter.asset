@@ -102,7 +102,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - .7
+      - .6
       - 
       - D_Q_01.png
       isEmpty: 0
@@ -832,9 +832,369 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - "\u5360\u535C\u7A7A\u9593"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - Divination_01.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 26
+      debugIndex: 26
+      strings:
+      - Card_00
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_00.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 27
+      debugIndex: 27
+      strings:
+      - Card_01
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_01.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 28
+      debugIndex: 28
+      strings:
+      - Card_02
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_02.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 29
+      debugIndex: 29
+      strings:
+      - Card_03
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_03.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 30
+      debugIndex: 30
+      strings:
+      - Card_04
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_04.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 31
+      debugIndex: 31
+      strings:
+      - Card_05
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_05.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 32
+      debugIndex: 32
+      strings:
+      - Card_06
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_06.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 33
+      debugIndex: 33
+      strings:
+      - Card_07
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_07.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 34
+      debugIndex: 34
+      strings:
+      - Card_08
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_08.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 35
+      debugIndex: 35
+      strings:
+      - Card_09
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_09.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 36
+      debugIndex: 36
+      strings:
+      - Card_10
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_10.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 37
+      debugIndex: 37
+      strings:
+      - Card_11
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_11.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 38
+      debugIndex: 38
+      strings:
+      - Card_12
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_12.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 39
+      debugIndex: 39
+      strings:
+      - Card_13
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_13.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 40
+      debugIndex: 40
+      strings:
+      - Card_14
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_14.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 41
+      debugIndex: 41
+      strings:
+      - Card_15
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_15.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 42
+      debugIndex: 42
+      strings:
+      - Card_16
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_16.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 43
+      debugIndex: 43
+      strings:
+      - Card_17
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_17.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 44
+      debugIndex: 44
+      strings:
+      - Card_18
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_18.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 45
+      debugIndex: 45
+      strings:
+      - Card_19
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_19.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 46
+      debugIndex: 46
+      strings:
+      - Card_20
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_20.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 47
+      debugIndex: 47
+      strings:
+      - Card_21
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_21.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 48
+      debugIndex: 48
+      strings:
+      - Card_22
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - Card_22.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/K1432102/Scenarios/K1432102.xls:Texture
     type: 1
-    textLength: 524
+    textLength: 1146
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
@@ -846,9 +1206,17 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - Sakura
+      - Sakura
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/K1432102/Scenarios/K1432102.xls:Particle
     type: 1
-    textLength: 13
+    textLength: 25
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
@@ -908,9 +1276,20 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u5DE6\u4E0A"
+      - Character
+      - -220
+      - 80
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/K1432102/Scenarios/K1432102.xls:Layer
     type: 1
-    textLength: 162
+    textLength: 182
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: b0ca589fc20996b4db74bc83d6621839, type: 3}
   - rows:
